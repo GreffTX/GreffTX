@@ -14,7 +14,6 @@
 ###
 <a href="https://github.com/GreffTX/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GreffTX&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-</a>
 <a href="https://github.com/GreffTX/github-readme-stats">
   <img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreffTX&layout=compact&theme=dark" />
 </a>  
