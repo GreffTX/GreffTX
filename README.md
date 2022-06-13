@@ -1,6 +1,6 @@
 ### Olá, Eu sou Thales Greff👋
 - 🔭 Desenvolvedor Júnior Full Stack C# e Java
-- 🌱 Estou Estudando: CSS, HTML5, Node.JS, MySQL
+- 🌱 Estou Estudando: CSS, HTML5, Node.JS, Angular, MySQL
 - 💬 Fale comigo pelo Email: tsbrc2@gmail.com
 - 👾 LinkedIn: https://www.linkedin.com/in/thales-greff-9ba50022b/
 
@@ -11,6 +11,7 @@
 ![Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skills](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Skills](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![skills](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ###
 <div>
 <a href="https://github.com/GreffTX/github-readme-stats">
