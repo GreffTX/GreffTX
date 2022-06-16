@@ -1,5 +1,5 @@
 ### Olá, Eu sou Thales Greff👋
-- 🔭 Desenvolvedor Júnior Full Stack C# e Java
+- 🔭 Desenvolvedor C# e Java.
 - 🌱 Estou Estudando: PostgreSQL, MySQL, React, React Native, JavaScript, Jquery, Vue-JS.
 - 💬 Fale comigo pelo Email: tsbrc2@gmail.com
 - 👾 LinkedIn: https://www.linkedin.com/in/thales-greff-9ba50022b/
