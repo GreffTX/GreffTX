@@ -2,14 +2,10 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thales+Greff;I'm+22+years+old;I+am+from+Mato+Grosso+do+Sul,+Brasil;I+study+Systems+Development+at+Unifatecie;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 #
-- 🔭 Desenvolvedor C# e Java.
-- 💬 Fale comigo pelo Email: tsbrc2@gmail.com
-- 👾 LinkedIn: https://www.linkedin.com/in/thales-greff-9ba50022b/
 
-## Main Skills
 
+### Main Skills
 [![Skills](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.udemy.com/certificate/UC-06f3b4e8-8f8f-47ca-b4e8-8b432a4828a5/)
 [![Skills](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://www.udemy.com/certificate/UC-ad58e516-9035-4fdb-9751-47e04371bb21/)
 [![Skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](ttps://www.udemy.com/certificate/UC-0f0ecb4c-13dc-4d77-8aaa-d2ebd59556c9/)
@@ -24,6 +20,15 @@
 ![skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![skills](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 #
+### Tools:
+![Tools](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Tools](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Tools](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Tools](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Tools](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Tools](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+#
 ### Studying in this moment:
 ![skills](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![skills](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -33,6 +38,7 @@
 ![skills](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #
+
 <div>
 <a href="https://github.com/GreffTX/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GreffTX&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -41,18 +47,13 @@
 </a>  
   </div>
 
+# 
+    
+   <div align="center">
+<br><p align="centre"><b>Visitors</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GreffTX}/count.svg" /></p> 
+<br></div>
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
