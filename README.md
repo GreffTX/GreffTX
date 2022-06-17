@@ -43,8 +43,11 @@
 ![skills](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![skills](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# 
+#
+![Contribution](https://activity-graph.herokuapp.com/graph?username=GreffTX&theme=gotham&hide_border=true&area=true)
     
+#  
+
    <div align="center">
 <br><p align="centre"><b>Visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GreffTX}/count.svg" /></p> 
