@@ -4,6 +4,8 @@
 - 💬 Fale comigo pelo Email: tsbrc2@gmail.com
 - 👾 LinkedIn: https://www.linkedin.com/in/thales-greff-9ba50022b/
 
+# My Skills
+
 [![Skills](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.udemy.com/certificate/UC-06f3b4e8-8f8f-47ca-b4e8-8b432a4828a5/)
 [![Skills](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://www.udemy.com/certificate/UC-ad58e516-9035-4fdb-9751-47e04371bb21/)
 [![Skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](ttps://www.udemy.com/certificate/UC-0f0ecb4c-13dc-4d77-8aaa-d2ebd59556c9/)
