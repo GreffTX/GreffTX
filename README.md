@@ -1,24 +1,38 @@
-## Olá, Eu sou Thales Greff👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thales+Greff;I'm+22+years+old;I+am+from+Mato+Grosso+do+Sul,+Brasil;I+study+Systems+Development+at+Unifatecie;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+#
 - 🔭 Desenvolvedor C# e Java.
-- 🌱 Estou Estudando: PostgreSQL, MySQL, React, React Native, Flutter, Jquery, Vue-JS.
 - 💬 Fale comigo pelo Email: tsbrc2@gmail.com
 - 👾 LinkedIn: https://www.linkedin.com/in/thales-greff-9ba50022b/
 
-## My Skills
-###
+## Main Skills
 
 [![Skills](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.udemy.com/certificate/UC-06f3b4e8-8f8f-47ca-b4e8-8b432a4828a5/)
 [![Skills](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://www.udemy.com/certificate/UC-ad58e516-9035-4fdb-9751-47e04371bb21/)
 [![Skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](ttps://www.udemy.com/certificate/UC-0f0ecb4c-13dc-4d77-8aaa-d2ebd59556c9/)
 [![skills](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://www.cod3r.com.br/certificates/zltej1ndfu)
+[![skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.cod3r.com.br/certificates/hkvip0kgen)
 ![Skills](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+#
+### Other Knowledge:
 ![Skills](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Skills](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![skills](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![skills](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+#
+### Studying in this moment:
+![skills](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![skills](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![skills](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![skills](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![skills](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![skills](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #
-
 <div>
 <a href="https://github.com/GreffTX/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GreffTX&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
@@ -27,3 +41,18 @@
 </a>  
   </div>
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
