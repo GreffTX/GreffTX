@@ -4,6 +4,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thales+Greff;I'm+22+years+old;I+am+from+Mato+Grosso+do+Sul,+Brasil;I+study+Systems+Development+at+Unifatecie;Be+Welcome!+:%29)](https://git.io/typing-svg)
 #
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GreffTX&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thales Greff github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreffTX&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+#
 
 ### Main Skills
 [![Skills](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.udemy.com/certificate/UC-06f3b4e8-8f8f-47ca-b4e8-8b432a4828a5/)
@@ -36,16 +42,6 @@
 ![skills](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![skills](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![skills](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#
-
-<div>
-<a href="https://github.com/GreffTX/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GreffTX&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<a href="https://github.com/GreffTX/github-readme-stats">
-  <img aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GreffTX&layout=compact&theme=dark" />
-</a>  
-  </div>
 
 # 
     
