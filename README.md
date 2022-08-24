@@ -46,7 +46,7 @@
 ![skills](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![skills](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 #
-![Contribution](https://activity-graph.herokuapp.com/graph?username=GreffTX&theme=gotham&hide_border=true&area=true)
+
     
 #  
 
